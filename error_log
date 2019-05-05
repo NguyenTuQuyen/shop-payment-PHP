@@ -1,0 +1,6 @@
+[05-May-2019 05:04:48 UTC] PHP Notice:  Use of undefined constant payUrl - assumed 'payUrl' in /home/dbui9256/public_html/view_cart.php on line 221
+[05-May-2019 05:04:53 UTC] PHP Notice:  Undefined index: name in /home/dbui9256/public_html/view_cart.php on line 144
+[05-May-2019 05:04:53 UTC] PHP Notice:  Undefined index: phone in /home/dbui9256/public_html/view_cart.php on line 145
+[05-May-2019 05:04:53 UTC] PHP Notice:  Undefined index: email in /home/dbui9256/public_html/view_cart.php on line 146
+[05-May-2019 05:04:53 UTC] PHP Notice:  Undefined index: address in /home/dbui9256/public_html/view_cart.php on line 147
+[05-May-2019 05:04:53 UTC] PHP Notice:  Undefined index: payment-method in /home/dbui9256/public_html/view_cart.php on line 148
